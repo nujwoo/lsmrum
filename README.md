@@ -1,1 +1,1 @@
-# lsmrum
+# LSM RUM-tree
